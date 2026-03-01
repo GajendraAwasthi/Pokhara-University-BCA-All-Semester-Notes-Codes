@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div class="wrapper">
+        <h1>Welcome to jQuery</h1>
+        <div id="message">hello </div>
+    </div>
+    <button class="check">Check load</button>
+    <script type="text/javascript" src="jquery.js"></script>
+    <script>
+        $(".check").click(function(){
+            $("#message").prev().css("color","red");
+        });
+    </script>   
+    
+</body>
+</html>

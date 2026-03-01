@@ -1,0 +1,39 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+header, footer{
+    background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+header, footer{
+    height: 100px;
+    /* text-align: center; */
+}
+main{
+    display: flex;
+    height: 200px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    gap: 4px;
+}
+
+main aside{
+    flex-basis: 20%;
+    background-color: aquamarine;
+}
+.content{
+    flex-grow: 1;
+    background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+aside{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

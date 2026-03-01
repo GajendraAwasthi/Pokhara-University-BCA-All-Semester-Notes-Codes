@@ -1,0 +1,1 @@
+//wap to create a list(dyanmic array)  and perform diffrent operation on it

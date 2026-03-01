@@ -1,0 +1,2 @@
+//write a program to take input from user any two number using scanner class and form arithmetic operation
+

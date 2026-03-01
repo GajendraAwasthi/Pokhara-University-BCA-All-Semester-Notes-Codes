@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script type="text/javascript">
+        var data = prompt("enter value");
+        document.write("<br>");
+        document.write("-------Break start---------");
+        document.write("<br>");
+        for(var i= 1; i < 10; i++){
+            if(data == i){
+                break;
+            }
+            document.write(i);
+            document.write("<br>");
+            
+        }
+        document.write("<br>");
+        document.write("-------Continue start---------");
+        document.write("<br>");
+        for(var i= 1; i < 10; i++){
+            if(data == i){
+                continue;
+            }
+            document.write(i);
+            document.write("<br>");
+            
+        }
+    </script>
+</body>
+</html>

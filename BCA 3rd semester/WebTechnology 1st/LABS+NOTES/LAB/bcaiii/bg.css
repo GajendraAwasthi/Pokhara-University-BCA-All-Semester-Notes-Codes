@@ -1,0 +1,11 @@
+.banner{
+    height: 300px;
+    border: 1px solid red;
+    background-color: #000;
+    background-image: url('images/college.jpg');
+    background-size:contain;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: repeat;
+    color: #fff; 
+}

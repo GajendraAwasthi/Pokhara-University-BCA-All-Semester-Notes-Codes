@@ -1,0 +1,12 @@
+.container{
+    width: 800px;
+    margin: 10px auto;
+}
+@media only screen and (max-width: 768px) {
+.container{
+    width: 100%;
+    margin-top: 30px;
+    background-color: blue;
+    color: #fff;
+}
+}

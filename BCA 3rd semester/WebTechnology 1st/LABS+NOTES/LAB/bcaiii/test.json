@@ -1,0 +1,15 @@
+[{
+    "roll": "1",
+    "name": "ram kumar",
+    "address": {
+        "temp" : "Dhangadhi",
+        "perm": "Pokhara"
+    },
+    "email" : "test@test.com"
+},
+{
+    "roll": "2",
+    "name": "sita kumari",
+    "dob": ["02","12","2020"]
+}]
+

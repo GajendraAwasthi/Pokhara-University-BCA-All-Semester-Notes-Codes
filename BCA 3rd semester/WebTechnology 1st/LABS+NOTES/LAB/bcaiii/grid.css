@@ -1,0 +1,16 @@
+.item{
+    background-color: orange;
+    font-size: 4rem;
+    text-shadow: 1px 1px black;
+    
+}
+.container{
+    display: grid;
+    grid-template-columns: 100px 200px 50px 5px;
+    gap:3px;
+}
+.item{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

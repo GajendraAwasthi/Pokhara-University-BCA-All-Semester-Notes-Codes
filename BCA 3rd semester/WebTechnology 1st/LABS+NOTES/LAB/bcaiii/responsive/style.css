@@ -1,0 +1,14 @@
+.products{
+    display: flex;
+    flex-wrap: wrap;
+}
+.item{
+    border: 1px dotted #ccc;
+    display: flex;
+    flex-direction: column;
+     justify-content: center;
+     align-items: center;
+}
+.item img{
+    width: 25%;
+}

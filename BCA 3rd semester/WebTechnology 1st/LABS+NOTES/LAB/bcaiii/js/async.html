@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        async function testFunction()
+        {
+            await  
+            throw new Error("not executed");
+            // return "Hello";
+        }
+        testFunction().then(
+            (value) => {document.write(value)},
+            (error) => {document.write(error)}
+        );
+
+        // function testFunction(){
+        //     throw new Error("Exceptionkaj haksjdh aksdjh");
+        // }
+
+        // document.write(testFunction());
+        
+    </script>
+</body>
+</html>
