@@ -7,6 +7,36 @@
 <h3>🎓 Pokhara University &nbsp;·&nbsp; All 8 Semesters &nbsp;·&nbsp; NAST College, Nepal</h3>
 <p><i>Notes · Source Codes · Lab Reports · Assignments · Past Papers — all in one place</i></p>
 
+<br/>
+
+<table>
+  <tr>
+    <td align="center" width="220">
+      <a href="https://pu.edu.np" target="_blank">
+        <img src="https://pu.edu.np/wp-content/uploads/2026/01/pu_final.svg" height="100" alt="Pokhara University Logo"/>
+      </a>
+      <br/>
+      <b>Pokhara University</b>
+      <br/>
+      <sub>Est. 1997 · Pokhara, Nepal</sub>
+    </td>
+    <td align="center" width="80">
+      <h2>×</h2>
+    </td>
+    <td align="center" width="220">
+      <a href="https://nast.edu.np" target="_blank">
+        <img src="https://media.edusanjal.com/__sized__/logos/nast_logo-thumbnail-200x200-70.jpeg" height="100" alt="NAST College Logo" style="border-radius:8px"/>
+      </a>
+      <br/>
+      <b>NAST College</b>
+      <br/>
+      <sub>Est. 2000 · Dhangadhi, Nepal</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
 
 
 <!-- BADGES ROW 1 -->
@@ -83,7 +113,7 @@ This is the **most comprehensive free BCA study resource** for **Pokhara Univers
 
 ### 🟣 YEAR I
 
-<details open>
+<details>
 <summary><b>📘 Semester I &nbsp;·&nbsp; Year I</b> &nbsp;&nbsp; <code>5 Subjects + 1 Workshop</code></summary>
 <br/>
 
@@ -317,8 +347,7 @@ All contributions that follow the folder structure and match PoU BCA curriculum 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-GajendraAwasthi-181717?style=for-the-badge&logo=github)](https://github.com/GajendraAwasthi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/GajendraAwasthi)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail)](mailto:gajendraawasthi@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/gajendra-awasthi-np)
 
 </div>
 
